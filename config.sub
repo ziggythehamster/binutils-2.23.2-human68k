@@ -729,7 +729,7 @@ case $basic_machine in
 		os=-proelf
 		;;
 	human68k)
-		basic_machine=m68k-unknown
+		basic_machine=m68k-sharp
 		os=-human68k
 		;;
 	i370-ibm* | ibm*)
